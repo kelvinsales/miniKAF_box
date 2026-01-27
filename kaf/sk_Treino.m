@@ -1,5 +1,5 @@
 function model = sk_Treino(X, Y, options)
-% Implementacao S-KRLS baseado no Artigo de HAIJIN FAN 2013/KAF box
+% Implementacao S-KRLS baseado no Artigo de HAIJIN FAN 2013
 %
 % Objetivo: Aplicacao do S-KRLS em predicao
 %
