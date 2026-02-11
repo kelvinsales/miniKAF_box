@@ -4,7 +4,7 @@ mini-kafbox: A Kernel Adaptive Filtering and Neural Network Mini-Toolbox for GNU
 
 **mini-kafbox** is a lightweight, pedagogical, and functional toolbox for Kernel Adaptive Filtering (KAF) and Neural Networks. It is designed specifically for researchers, students, and engineers who need a transparent and easy-to-debug implementation of state-of-the-art algorithms in GNU Octave.
 
-## Why use miniKAF_box?
+## Why use mini-kafbox?
 
 While inspired by the well-known [KAFBOX by Steven Van Vaerenbergh](https://github.com/stevenvw/kafbox), this version offers a simplified architecture, making it easier to integrate into research projects and academic benchmarks
 
